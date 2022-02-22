@@ -1,0 +1,154 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter sent by a Yorkshire gentleman to a friend in London being a full and true relaion of the proceedings betweene His Majesty and the county of York, at Heworth Moore, upon Friday, June 3 : also the most materiall passages of this weeke, from London, Westminster, &amp;c.</title>
+            <author>Yorkshire gentleman.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28886</idno>
+            <idno type="STC">Wing B3839</idno>
+            <idno type="STC">ESTC R16466</idno>
+            <idno type="EEBO-CITATION">12655227</idno>
+            <idno type="OCLC">ocm 12655227</idno>
+            <idno type="VID">65337</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28886)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65337)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E150, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter sent by a Yorkshire gentleman to a friend in London being a full and true relaion of the proceedings betweene His Majesty and the county of York, at Heworth Moore, upon Friday, June 3 : also the most materiall passages of this weeke, from London, Westminster, &amp;c.</title>
+                  <author>Yorkshire gentleman.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[S.l, :</pubPlace>
+                  <date>1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>Yorkshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:65337:1" rendition="simple:additions"/>
+            <head>A LETTER SENT By a Yorkſhire Gentleman, to a friend in London: Being a full and true Re<g ref="char:EOLhyphen"/>lation of the proceedings betweene his Majeſty and the County of York, at <hi>Heworth Moore,</hi> upon <hi>Friday, June.</hi> 3.</head>
+            <head type="sub">Alſo the moſt materiall paſſages of this Weeke, from London, Weſtminſter, &amp;c.</head>
+            <opener>
+               <salute>Worthy Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">M</seg>Y Engagements to you command the paſſages of this day; I am confident the Printed Summons ſo long before publi<g ref="char:EOLhyphen"/>ſhed, and the ſeverall adjournments of our meeting have begot in you, as in all parts about us, ſtrong expectations of the iſſue.</p>
+            <p>In the firſt place, his Majeſtie attended with divers Lords of the Houſe of Peeres, and the 140. Troopers of Knights and Gentlemen of this Countie, led by the Prince their Captaine; &amp; ſome of the Houſe of Commons, with the 800. of the Trained Bands as a foot Guard, appeared this day on <hi>Heworth Moore;</hi> where (in the judgement of moſt) were betweene 60. and 70. thouſand Free-holders and
+<pb n="2" facs="tcp:65337:2"/>others. After his Majeſtie had rid about the field, He decla<g ref="char:EOLhyphen"/>red that that which he had to ſay to them, he had put in Print, and ſo diſperſed the ſame through the field.</p>
+            <p>At the delivery thereof, divers of the Cavelliers and o<g ref="char:EOLhyphen"/>thers ſhaked their Hats over their heads, and the people cryed, God bleſſe the King, God unite the King and Par<g ref="char:EOLhyphen"/>liament, and God turne the Kings heart, and with this they followed the King from the Moore to the Citie. But by the way, let me advertiſe you of ſome paſſages upon the Moore: Sir <hi>John Bourchier</hi> being among the Freehol<g ref="char:EOLhyphen"/>ders, and reading a Petition, openly in the field for their approbation, to be preſented in the Name of the Countie to His Majeſtie, thereby declaring their diſlike, that thoſe Ca<g ref="char:EOLhyphen"/>velliers ſhould be ſo neare the Court, as if they were kept for ſome deſigne: And deſiring the King to comply with the Parliament, &amp; to diſmiſs them. The Lo: <hi>Savill</hi> having notice thereof, came in a furious manner to Sir <hi>Jo. Bourchier,</hi> ſaying, Sirrah, what Pamphlet are you reading there; who anſwe<g ref="char:EOLhyphen"/>red, no Pamphlet, but that thing w<hi rend="sup">ch</hi> he could iuſtifie. What is it ſome ſeditious Petition? I command you to deliver it; which he refuſing, the Lord <hi>Savill</hi> was ready to take him by the Throate, &amp; laying his hand upon his Sword, threat<g ref="char:EOLhyphen"/>ned what he would do to him if hee did not deliver it; whereupon the Free-holders who approved of the ſame, were earneſt to lay violent hands on his Lordſhip; but Sir <hi>John Bourchier</hi> deſirous to avoyd ſhedding of Blood (which unavoydably would have followed) deli<g ref="char:EOLhyphen"/>vered the ſame; the Free-holders were ſo keene to bee revenged on his Lordſhip for affronting them in hindering their Petitioning to his Maieſtie, that they preſently cauſed another Copie of the ſame to be read openly in the Field, which receiving a generall approbation, none oppoſing it publikely, but one <hi>Bradley</hi> a Parſon, Popiſh, and of a viti<g ref="char:EOLhyphen"/>ous converſation: They requeſted Sir <hi>Thomas Fairefaxe</hi> Knight, ſonne to <hi>Fardinando</hi> Lord <hi>Fairefaxe,</hi> to preſent the ſame Petition to his Maieſtie; publikely declaring their
+<pb n="3" facs="tcp:65337:2"/>approbation thereunto: which hee (notwithſtanding the Lord <hi>Savills</hi> oppoſition) accepted of, and uſed his utmoſt endeavour to deliver the ſame, and after extraordinary oppoſition, made his way thorough the Horſe, and came at laſt neare to his Maieſtie, and alighted, and tendred the ſame: who putting it aſide with his hand, declined the ac<g ref="char:EOLhyphen"/>ceptance thereof; and Sir <hi>Thomas Fairfaxe</hi> preſſing the ſecond time with more earneſtneſſe, received the like refu<g ref="char:EOLhyphen"/>ſall, yet left the ſame upon the Pummell of his Maieſties Saddle; and returned and acquainted the Free-holders therewith; who being troubled at his Maieſties refuſall, re<g ref="char:EOLhyphen"/>ſolved to goe into the Citie, and as many of them whoſe habitations were neare <hi>Yorke</hi> and could make ſtay, went and ſubſcribed the Petition; &amp; after gave directions to pre<g ref="char:EOLhyphen"/>ſent the ſame to the Parliament; together with a ſhort Pe<g ref="char:EOLhyphen"/>tition to both Houſes, ſhewing the affronts they received by the Lord <hi>Savill</hi> and the Lord <hi>Lindſey,</hi> who tore one of the Petitions, which I ſhould have mentioned be<g ref="char:EOLhyphen"/>fore.</p>
+            <p>The Cavilliers reported by reaſon of the acclamation of the people, they were wholly for the King, againſt the Par<g ref="char:EOLhyphen"/>liament; which the people hearing of, declared, they did not come that day with any intentions or reſolutions to di<g ref="char:EOLhyphen"/>vide the King and Parliament, nor would they ever conde<g ref="char:EOLhyphen"/>ſcend thereunto; and were reſolved of that anſwer in caſe any ſuch propoſitions had beene made: And becauſe there was an appearance of ſo many thouſands, and nothing propounded to require their anſwer, they went away much unſatisfied and diſcontent, becauſe they knew not where<g ref="char:EOLhyphen"/>fore they were ſummoned.</p>
+            <p>The Lord <hi>Savill</hi> who had endeavored to ſuppreſſe the generall Petition of the Countie, hath ſince the diſmiſſion of the aſſembly (being afraid of a publike <hi>Teſte</hi>) in an obſcure manner, procured hands to another Petition to the Parlia<g ref="char:EOLhyphen"/>ment of a very ſtrange Nature, and hath procured the ſame to be Printed, and to be diſperſed through this Countie;
+<pb n="4" facs="tcp:65337:3"/>and <hi>Benſon</hi> an Atturney at Common Law is deſigned by his Lordſhip to be imployed in the Weſt Riding, to progge for h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nds to that Petition.</p>
+            <p>Let me a little treſpaſſe upon your patience, and acquaint you with other Particulars. This morning the Lord <hi>New<g ref="char:EOLhyphen"/>caſtle</hi> is come, and this night the Lord <hi>Strange</hi> is expected, there are here about 42. peeres of the Realme, and as many of the Houſe of Commons. And let me tell you what I heare, that a Declaration is intended by the King and Lords (if not by the Commons here preſent) againſt the procee<g ref="char:EOLhyphen"/>dings of Parliament; what effect it will have I know not: by the next Poſt perhaps you will heare the Chapter-houſe or Deanry is making fit with ſeats for Conſultation, much after the manner of the houſe of Commons; Maſter <hi>Hide</hi> is expected this night; Two Cart loades of Records and Bookes are come downe: Maſter <hi>Holborne</hi> and Maſter <hi>Chadwell</hi> are every day looked for.</p>
+            <p>
+               <hi>Yorke</hi> is a Sanctuary to all thoſe that deſpiſe the Parlia<g ref="char:EOLhyphen"/>ment; The Cavilliers take liberty in railing againſt the Par<g ref="char:EOLhyphen"/>liament, and uſe all meanes to put affronts upon them, and to diſaffect the people from them; for one Maſter <hi>King</hi> be<g ref="char:EOLhyphen"/>ing imployed by the Sergeant at armes of the houſe of Com<g ref="char:EOLhyphen"/>mons, for the apprehending of one <hi>Beckwith</hi> an Arch Papiſt, who was the principall actor in the plot for ſurpriſe of <hi>Hull,</hi> having apprehended him, was reſcued by 12. Cavilliers, who beat Maſter <hi>King,</hi> and kickt him downe the ſtaires, which the Committee at <hi>Yorke</hi> having notice of, Sir <hi>Ph. Sta<g ref="char:EOLhyphen"/>pleton,</hi> and Sir <hi>Hen. Cholmley</hi> went into the roome where they were, and demanded the priſoner, declaring withall, they would have juſtice done upon them for this affront to the Parliament, and at laſt, obtained their Priſoner againe, whereupon the Cavilliers went to Court, and a Command came from his Majeſty for the releaſement of the priſoner, and the Meſſenger of the houſe of Commons was ſent for by Sir <hi>James Hay,</hi> and ſome of the Kings Guard, and for eight houres was under reſtraint of a Guard of Musketiers, and
+<pb n="5" facs="tcp:65337:3"/>was ſent for to his Majeſty, who required him to ſhew his Warrant, which he did, and his Majeſty declared that hee would protect <hi>Beckwith:</hi> And the day after <hi>Beckwith</hi> tooke the oath of Allegiance and Supremacie, as moſt of the grea<g ref="char:EOLhyphen"/>teſt Papiſts in <hi>Yorkeſhire</hi> at this time doe; and (as is con<g ref="char:EOLhyphen"/>ceived) throughout the Kingdome they have a diſpenſation to doe, thereby the better to compaſſe their deſignes; which are, as our Cavilliers publiquely declare here, to deſtroy the Parliament, for that ſo long as the Act ſhall ſtand, that this Parliament ſhall not be diſſolved without conſent of both Houſes: It will be ſuch a curb and bridle to all deſirous to mount Prerogative, that they will have no hopes of recove<g ref="char:EOLhyphen"/>ry, but by deſtruction of this Parliament; which (if com<g ref="char:EOLhyphen"/>paſſed) I feare will put a period to all Parliaments, and ſo by conſequence deſtroy our Religion, Liberty, and Proper<g ref="char:EOLhyphen"/>ty: We much marvell that no notice is taken of the many Lords of the Houſe of Peeres, and members of the houſe of Commons that are come downe hither, and that they are not ſummoned up, for it is given out here, there are but about 56. in the houſe of Commons left, and about 20. of the Lords; And that the reſt have deſerted the Parliament, and this they brag on in a high manner: Now ſure if it be ſuffer<g ref="char:EOLhyphen"/>ed that Members of either Houſe may be enjoyned by a VVarrant under his Maieſties hand, to attend his Maieſtie ſo far remote from Parliament, and neglect the great affairs of the Kingdome, whereunto they were elected by VVrit, let Law be no more our Rule, but VVill, and bid farewell to all Parliaments.</p>
+            <p>I have but two particulars more to adde, to wit, that a Corporall of Sir <hi>John Hothams</hi> (as I am informed) and ſome 30. Common Souldiers are come from <hi>Hull</hi> to the King, but the reaſon of their comming from thence, was, that the Corporall for his abuſive carriages was to ride the Horſe, as alſo ſome of the Common Souldiers, who in reſiſtance ther<g ref="char:EOLhyphen"/>of expreſſed a mutinous behaviour, whereof Sir <hi>Jo. Hotham</hi> being throughly poſſeſſed, quit the Garriſon of them.</p>
+            <pb n="6" facs="tcp:65337:4"/>
+            <p> In a word I conclude, the Committee of the Parliament here reſident, were by his Maieſty confined to their lodgings this day, and command not to go into the field: they anſwe<g ref="char:EOLhyphen"/>red to my Lo: of <hi>Newport,</hi> (who brought his Maieſties com<g ref="char:EOLhyphen"/>mand) that it was againſt the liberty of the Subiect, againſt the Law of the Land, and not a ſmall breach of the Privi<g ref="char:EOLhyphen"/>ledges of Parliament, that members thereof (ſent downe to keep the peace of the Kingdome) and Freeholders of this County ſhould be ſo illegally impriſoned, at ſuch a time; which the Freeholders did much diſtaſt: Nevertheleſſe, the Committee would obey, except the occurrences of the day ſhould require their preſence in obedience to the command of Parliament, and then they anſwered, they muſt not de<g ref="char:EOLhyphen"/>ceive ſo great a truſt committed to them, &amp;c.</p>
+         </div>
+         <div type="summary_of_sigificant_Parliamentary_proceedings">
+            <head>The moſt remarkable paſſages of <hi>this Weekes proceedings.</hi>
+            </head>
+            <p>THe Lords and Commons profeſſing (next to the ſer<g ref="char:EOLhyphen"/>vice of Almighty God) their reall deſire of his Maie<g ref="char:EOLhyphen"/>ſties honour, and the proſperity of this Kingdome, likewiſe expreſſing their ſenſe of the diſtractions thereof, and the mi<g ref="char:EOLhyphen"/>ſerie thereby threatned to the ſame, (occaſioned by perſons diſaffected to the true Religion, his Maieſties honour, and the peace of the Nation) agreed upon nineteene Propoſiti<g ref="char:EOLhyphen"/>ons to be ſent to his Maieſtie, whereto they humbly be<g ref="char:EOLhyphen"/>ſeeched his Maieſties compliance, as to the moſt effectuall meanes (through Gods bleſſing) to prevent the enemies hopes, and our owne feares, and to beget a right underſtan<g ref="char:EOLhyphen"/>ding betwixt King and People, and declared to ſettle his Maieſties revenew in a fuller manner than his predeceſſors ever inioyed.</p>
+            <pb n="7" facs="tcp:65337:4"/>
+            <p> It is Ordered that, the members of the Houſe, of Commons gone to Yorke, ſhould forthwith repaire to the ſervice of the Kingdome; in Parliament, and their diſobedience to the ſaid Order ſhould be deemed, a high affront to Parliament, a failing of the truſt repoſed in them by the Kingdome, and a countenancing of the warre intended againſt the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>It is Ordered that all abſent members of the Commons Houſe ſhould give ſpeedy attendance upon the buſineſſe of the Common wealth, that all Sheriffes ſhould give notice of the ſaid Order; &amp; that if they be not in the Houſe of Com<g ref="char:EOLhyphen"/>mons, the 16. of this inſtant June, then each to forfeit a 100. pounds towards the wars of Ireland, and to be further cenſured, <hi>Prout,</hi> &amp;c.</p>
+            <p>Upon information that the Jewels of the Crowne were either ſold, or pawned beyond Sea (which by the Law ought not to be alienated) and that the extraordinary ſums thereby raiſed, were probably to furniſh the intended warre againſt the parliament: It is ordered by the Lords and Commons, that all Actors about the ſame, not giving no<g ref="char:EOLhyphen"/>tice thereof to the parliament, ſhall be held promoters of the ſaid war, enemies to the State, and ought to ſatisfie the pub<g ref="char:EOLhyphen"/>lique dammage.</p>
+            <p>At a Common Hall in London the Loane of one hundred thouſand pounds was required by the Parliament from the Citie (for the affaires of England &amp; Ireland) which was gran<g ref="char:EOLhyphen"/>ted with ſo generall alacritie and readineſſe, that, (it being deſired, all againſt the Loane would hold up their hands) there was not a hand lift up throughout the Hall, except one who began to ſpeake, as was conceived, againſt the ſame, whereupon he was imediatly hiſſed into ſhame and ſi<g ref="char:EOLhyphen"/>lence; Upon the report of this faithfulneſſe and affection of the Citie to the Kingdome, both Houſes reſolved that an eſpeciall thankes ſhould be drawn up and ſent unto them.</p>
+            <p>It is informed to the Parliament that above an hundred faile of Ships of the <hi>Denmarkes</hi> are put to Sea, with many
+<pb n="8" facs="tcp:65337:5"/>thouſand Foot, and very many Horſe, their voyage is pre<g ref="char:EOLhyphen"/>tended to <hi>France</hi> for Salt, but it is well knowne, that Light Horſes doe not uſe to carry Salt by Sea.</p>
+            <p>The Committee of the Houſe of Commons (now in <hi>Lin<g ref="char:EOLhyphen"/>coln ſhiere</hi>) to ſettle the <hi>Militia,</hi> ſent a Letter to the Houſe, thereby ſhewing the ready obedience they there met with<g ref="char:EOLhyphen"/>all (even beyond their expectation) unto the ordinance of Parliament in that behalfe: That the County hath foureſcore High Conſtables, whereof all appeared before them (to render their account of the Armies and munition of the Countie) except two or three (one of which was then at London) ſo as the appearance was obſerved to bee fuller then had beene upon any occaſion heretofore; and that (not<g ref="char:EOLhyphen"/>withſtanding his Maieſties Proclamation againſt the <hi>Mi<g ref="char:EOLhyphen"/>litia</hi> fixed upon the gate where they met, alſo his Maieſties Letter ſent to the old Deputie Lievtenants under the Lord <hi>Lindſey,</hi> who hath a new Commiſſion under the Great Seale for the Lievtenancy of that county) the Trayned Bands of the Citie of <hi>Lincolne</hi> with a like number of Volunteers com<g ref="char:EOLhyphen"/>pleatly armed, made tender of their ſervice according to their late Proteſtation.</p>
+            <p>A Petition was delivered to the Parliament from the County of <hi>Yorke</hi> directed to both Houſes: and therewith they ſent the Petition tendered to his Maieſtie by them up<g ref="char:EOLhyphen"/>on Friday laſt.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
